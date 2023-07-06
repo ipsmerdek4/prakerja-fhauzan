@@ -1,2 +1,2 @@
 ini adalah file pertama
-ini ditambahkan oleh featureB
+ini ditambahkan oleh featureB 
